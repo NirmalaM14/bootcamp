@@ -1,0 +1,53 @@
+.parant{
+    background-color: aquamarine;
+    border: 8px solid red;
+     /* position: absolute;
+    height: 40px; */
+}
+
+.child_one{
+    background-color: blue;
+     /* position:static; */
+     /* position: relative; */
+    /* left: 10px; 
+     top: 25px; 
+      position: absolute;  */
+     /* position: absolute;; */
+        /* right: 160px;
+        width: 200px;
+        height: 80px;
+        border: 3px solid #73AD21;
+        border-bottom: 60px; */
+        /* height: 50px; */
+        /* position: absolute;
+         top: 80px;
+         right: 0;
+         width: 200px;
+        height: 100px;
+        border: 3px solid #73AD21; */
+        position: sticky;
+        top: 0;
+        padding:2px;
+        background-color: green;
+        border: 2px solid #4CAF50;
+}
+.child_two{
+    background-color:orchid
+    /* position: relative;
+  width: 400px;
+  height: 200px;
+  border: 3px solid #73AD21; */
+}
+.child_three{
+    background-color: blueviolet;
+    /* position: fixed;
+  bottom: 20px;
+  right: 0;
+  width: 300px;
+  border:1px solid #73AD21; */
+  /* position: sticky;
+  top: 0;
+  padding:2px;
+  background-color: green;
+  border: 2px solid #4CAF50; */
+}

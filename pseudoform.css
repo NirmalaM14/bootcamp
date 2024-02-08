@@ -1,0 +1,26 @@
+/* 1.required; */
+/* input:required{
+    background-color: blueviolet;
+} */
+/* 2.disabled: */
+/* input:disabled{
+    background-color: antiquewhite;
+}
+3.inrange and out of range */
+/* 4.valid and :invalid
+input:valid{
+    background-color: blue;
+}
+input:invalid{
+    background-color: blueviolet;
+} */
+/* 5.root */
+/* to apply style for the all buttons at a time in an form */
+:root{
+    --main-color:red;
+    --border-nirmala:1px solid blue;
+}
+.submit_button{
+    color: var(--main-color);
+    border: var(--border-nirmala);
+}

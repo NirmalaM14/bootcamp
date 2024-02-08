@@ -1,0 +1,62 @@
+.nimu{
+    border: 1px solid lightsalmon;
+    display: flex;
+    height:80vh;
+    /* flex-direction:column; */
+    /* flex-direction:row; */
+    /* flex-direction: column-reverse; */
+    /* flex-direction: row-reverse; */
+    /* flex-wrap:nowrap; */
+    /* flex-flow: column;
+    flex-flow: column wrap-reverse; */
+    /* flex-wrap: wrap; */
+    justify-content: center;
+    /* justify-content: flex-start; */
+    /* justify-content: flex-end; */
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    /* justify-content: space-evenly; */
+    /* align-items: flex-end; */
+    /* align-items: flex-end; */
+    /* align-items: flex-start; */
+     /* align-items: baseline; */
+    /* align-items: center; */
+    /* align-items:stretch;*/
+}
+
+.sara{
+    width: 10vw;
+    height:15vh;
+    border: 2px solid  black;
+    /* padding: 10px;
+    position:absolute; */
+
+}
+.box1{
+    background-color: blue;
+    top: 40px;
+    /* left: 40px; */
+    /* z-index: 10; */
+    /* font-size: 35px; */
+    /* order: 5; */
+    flex-grow: 10;
+
+}
+.box2{
+    background-color:red ;
+    top: 80px;
+    /* left: 80px; */
+    /* z-index: 25; */
+    /* font-size: 25px; */
+    /* order: 30; */
+    flex-grow: 19;
+    }
+.box3{
+    background-color: aquamarine;
+    top: 120px;
+    /* left:120px; */
+    /* z-index: 20; */
+    /* font-size: 15; */
+    /* order: 20; */
+    flex-grow: 15;
+}

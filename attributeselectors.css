@@ -1,0 +1,27 @@
+/* 1.tagname[attribute],2.tagname[attribute="value"] */
+/* p[class]{
+    color: blueviolet;
+}
+img[title] {
+    border: 5px solid chocolate;
+} */
+/* 3.tagname[attribute^="value"] */
+/* p[class^="nimu"]{
+    color: blueviolet;
+} */
+/* 4.tagname[attribute|="value"]]
+p[class|="nimu"]{
+    color: chartreuse;
+} */
+/* 5.tagname[attribute$="value"]]
+p[class$="simple"]{
+    color: red
+} */
+/* 6.tagname[attribute*="value"]]
+p[class*="is"]{
+    color:violet
+} */
+/* 7.tagname[attribute~="value"]] */
+/* p[class~="simple"]{
+    color:red;
+} */

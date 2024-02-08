@@ -1,0 +1,26 @@
+/* 1.firstletter */
+/* p::first-letter{
+    background-color: blue;
+} */
+/* 2.firstline */
+/* p::first-line{
+    background-color: blue;
+} */
+/* 3.seletion */
+/* p::selection{
+    background-color: aqua;
+} */
+/* 4.placehohlder */
+/* input::placeholder{
+    background-color: chocolate;
+} */
+/* 5::after */
+/* p::before{
+    content: "nirmala maviti";
+    color: aqua;
+} */
+/* 6.after */
+p::after{
+    content: "sara64668";
+    color: aquamarine;
+}

@@ -1,0 +1,11 @@
+.nirmala{
+    background-color: blue;
+    height: 20px;
+    width: 25px;
+    /* display: none; */
+    visibility: hidden;
+}
+.wrapper{
+    border:2px solid rebeccapurple;
+    height: 50px;
+}

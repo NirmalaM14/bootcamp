@@ -1,0 +1,28 @@
+.nimu{
+    border:2px solid red;
+    height: 80vh;
+    width: 70vw;
+    /* display: flex; */
+}
+.sara{
+    border: 1px solid black;
+    height:40vh;
+    width:20vw;
+    position: absolute;
+    /* display: flex; */
+}
+.box-1{
+    background-color: antiquewhite;
+    top:40px;
+    left:40px;
+}
+.box-2{
+    background-color: blue;
+    top:80px;
+    left:80px;
+}
+.box-3{
+    background-color: blueviolet;
+    top: 120px;
+    left:120px;
+}

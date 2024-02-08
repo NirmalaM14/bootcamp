@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.image{
+    background-image: url("https://cdn.britannica.com/34/102134-050-6DE65DE1/La-Gruyere-district-Fribourg-canton-Switzerland.jpg");
+    background-size: cover;
+    height:100%;
+    width:100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: smaller;
+}
+.card{
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+
+}
+.ng{
+    margin-right: 70px;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.card-image{
+    height: 150px;
+    width: 150px;
+    border-radius: 8px;
+    
+}
+.color{
+    color: black;
+}
+.heading{
+    color: brown;
+}

@@ -1,0 +1,27 @@
+/* 1.descandant selectors */
+/* div p{
+    color: aqua;
+}
+p span{
+    color: blue;
+} */
+
+/* 2.direct child */
+/* ul{
+    color: aquamarine;
+}
+.zara>li{
+    color: blue; 
+ } */
+
+/* 3.adjacent  sibling selectors */
+ul+p{
+    color: blueviolet;
+}
+/* 4.general selectors */ */
+/* div~p{
+    color: brown;
+}
+ul~p{
+    color: chartreuse;
+} */
